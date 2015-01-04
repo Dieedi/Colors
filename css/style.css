@@ -9,6 +9,11 @@ h1 {
 	color: #284F5B;
 }
 
+hr {
+	height: 5px;
+	background-color: #00DAFF;
+}
+
 h2 {
 	/*default color*/
 	color: #00DAFF;

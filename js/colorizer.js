@@ -19,6 +19,6 @@ $(document).ready(function () {
 	$("#color-5").keyup(function () {
 		$("#color5").css("background-color", $(this).val());
 		$("h2").css("color", $(this).val());
+		$("hr").css("background-color", $(this).val());
 	});
-
 })
